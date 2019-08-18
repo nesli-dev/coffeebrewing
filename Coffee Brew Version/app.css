@@ -1,0 +1,40 @@
+body {
+    background: #D2B48C;
+    font-family:"Nunito", sans-serif;
+}
+
+.blurb h2{
+    color:brown;
+    font-weight:100;
+    font-size:1.5rem;
+}
+
+.blurb p{
+  color:#e7d9cf;
+  font-weight:100;
+  font-size:1.125rem;  
+}
+.content {
+    margin-top:70px;
+}
+
+#mainNavbar {
+    font-size: 1.5 rem;
+    font-weight:100;
+}
+#mainNavbar .nav-link {
+ color:white;
+}
+#mainNavbar .nav-link:hover {
+    color: brown;
+}
+#mainNavbar .navbar-brand {
+    font-size: 2rem;
+}
+#headingGroup span {
+    color: brown;
+}
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 2rem;
+}
